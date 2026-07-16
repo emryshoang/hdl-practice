@@ -1,0 +1,12 @@
+# Ignore compiled simulation binaries
+*_sim
+*.exe
+*.out
+
+# Ignore raw waveform database dumps
+*.vcd
+*.key
+*.log
+
+# Ignore VS Code system folders
+.vscode/
